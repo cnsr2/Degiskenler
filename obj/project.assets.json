@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\test\\Proje\\degiskenler\\degiskenler.csproj",
+      "projectUniqueName": "C:\\Users\\gamer\\Desktop\\degiskenler\\degiskenler.csproj",
       "projectName": "degiskenler",
-      "projectPath": "C:\\Users\\gamer\\Desktop\\test\\Proje\\degiskenler\\degiskenler.csproj",
+      "projectPath": "C:\\Users\\gamer\\Desktop\\degiskenler\\degiskenler.csproj",
       "packagesPath": "C:\\Users\\gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gamer\\Desktop\\test\\Proje\\degiskenler\\obj\\",
+      "outputPath": "C:\\Users\\gamer\\Desktop\\degiskenler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
